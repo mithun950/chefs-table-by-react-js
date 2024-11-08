@@ -1,0 +1,92 @@
+[
+  {
+    "recipe_name": "Stir-Fried Chicken",
+    "recipe_id": 201,
+    "recipe_img": "https://www.recipetineats.com/tachyon/2016/03/Pad-See-Ew-Thai-Noodles_3.jpg?resize=1200%2C1680&zoom=1",
+    "short_description": "Quick stir-fry with tender chicken and vegetables.",
+    "ingredients": [
+      "250 grams chicken breast",
+      "120 ml soy sauce",
+      "2 tablespoons olive oil",
+      "1 bell pepper, sliced",
+      "1 onion, sliced"
+    ],
+    "preparing_time": "25 minutes",
+    "calories": 320
+  },
+  {
+    "recipe_name": "Spaghetti Carbonara",
+    "recipe_id": 202,
+    "recipe_img": "https://www.recipetineats.com/tachyon/2023/01/Carbonara_6a.jpg?resize=900%2C1125&zoom=1",
+    "short_description": "Classic Italian pasta with a creamy sauce.",
+    "ingredients": [
+      "200 grams spaghetti",
+      "100 grams pancetta",
+      "2 eggs",
+      "50 grams parmesan cheese, grated",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": "20 minutes",
+    "calories": 450
+  },
+  {
+    "recipe_name": "Beef Tacos",
+    "recipe_id": 203,
+    "recipe_img": "https://www.recipetineats.com/tachyon/2015/09/Mexican-Shredded-Beef_2.jpg?resize=900%2C1260&zoom=1",
+    "short_description": "Tacos filled with seasoned beef and fresh toppings.",
+    "ingredients": [
+      "300 grams ground beef",
+      "1 tablespoon chili powder",
+      "120 ml salsa",
+      "8 taco shells",
+      "100 grams shredded lettuce"
+    ],
+    "preparing_time": "30 minutes",
+    "calories": 390
+  },
+  {
+    "recipe_name": "Teriyaki Salmon",
+    "recipe_id": 204,
+    "recipe_img": "https://www.recipetineats.com/tachyon/2022/07/Teriyaki-Salmon-Noodles_1-1.jpg?resize=900%2C1125&zoom=1",
+    "short_description": "Salmon glazed with sweet and savory teriyaki sauce.",
+    "ingredients": [
+      "2 salmon fillets (approx. 300 grams)",
+      "100 ml teriyaki sauce",
+      "1 teaspoon sesame seeds",
+      "1 spring onion, chopped",
+      "Steamed rice for serving"
+    ],
+    "preparing_time": "25 minutes",
+    "calories": 280
+  },
+  {
+    "recipe_name": "Vegetable Curry",
+    "recipe_id": 205,
+    "recipe_img": "https://www.recipetineats.com/tachyon/2017/07/Vegetable-Curry.jpg?resize=1200%2C1680&zoom=0.5",
+    "short_description": "A rich and flavorful curry with fresh vegetables.",
+    "ingredients": [
+      "1 large potato, diced",
+      "200 grams cauliflower florets",
+      "150 grams green beans, trimmed",
+      "400 ml coconut milk",
+      "2 tablespoons curry powder"
+    ],
+    "preparing_time": "35 minutes",
+    "calories": 310
+  },
+  {
+    "recipe_name": "Chicken Caesar Wrap",
+    "recipe_id": 206,
+    "recipe_img": "https://www.recipetineats.com/tachyon/2019/07/Chicken-Stew_5.jpg?resize=747%2C747&zoom=1",
+    "short_description": "A handheld version of the classic Caesar salad.",
+    "ingredients": [
+      "250 grams grilled chicken breast",
+      "4 tortillas",
+      "50 grams parmesan cheese, shredded",
+      "100 grams romaine lettuce",
+      "120 ml Caesar dressing"
+    ],
+    "preparing_time": "15 minutes",
+    "calories": 370
+  }
+]
